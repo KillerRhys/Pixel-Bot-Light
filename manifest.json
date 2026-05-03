@@ -1,0 +1,10 @@
+{
+  "latest_version": "0.2.0",
+  "min_supported_version": "0.1.0",
+  "allow_run": true,
+  "grace_until": "",
+  "message": "A newer version is available.",
+  "download_url": "https://drive.google.com/drive/folders/1HfbnD9qRSV2h6Ex-em_-yjhnXuDZP8uW?usp=sharing",
+  "zip_url": "",
+  "notes": "Bug fixes, new voices, and reconnect improvements."
+}
